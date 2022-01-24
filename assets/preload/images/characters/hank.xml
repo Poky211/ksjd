@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="hank.png"><SubTexture name="hank idle0000" x="0" y="0" width="527" height="392" frameX="0" frameY="0" frameWidth="527" frameHeight="392" />
+<SubTexture name="hank idle0001" x="527" y="0" width="527" height="392" frameX="0" frameY="0" frameWidth="527" frameHeight="392" />
+<SubTexture name="hank idle0002" x="1054" y="0" width="527" height="392" frameX="0" frameY="0" frameWidth="527" frameHeight="392" />
+<SubTexture name="hank idle0003" x="0" y="392" width="527" height="392" frameX="0" frameY="0" frameWidth="527" frameHeight="392" />
+<SubTexture name="hank idle0004" x="527" y="392" width="527" height="392" frameX="0" frameY="0" frameWidth="527" frameHeight="392" />
+<SubTexture name="hank down0000" x="1054" y="392" width="494" height="360" frameX="0" frameY="0" frameWidth="494" frameHeight="360" />
+<SubTexture name="hank down0001" x="0" y="784" width="494" height="360" frameX="0" frameY="0" frameWidth="494" frameHeight="360" />
+<SubTexture name="hank left0000" x="494" y="784" width="586" height="386" frameX="0" frameY="0" frameWidth="586" frameHeight="386" />
+<SubTexture name="hank left0001" x="1080" y="784" width="586" height="386" frameX="0" frameY="0" frameWidth="586" frameHeight="386" />
+<SubTexture name="hank right0000" x="0" y="1170" width="600" height="398" frameX="0" frameY="0" frameWidth="600" frameHeight="398" />
+<SubTexture name="hank right0001" x="600" y="1170" width="600" height="398" frameX="0" frameY="0" frameWidth="600" frameHeight="398" />
+<SubTexture name="hank up0000" x="1200" y="1170" width="704" height="404" frameX="0" frameY="0" frameWidth="704" frameHeight="404" />
+<SubTexture name="hank up0001" x="0" y="1574" width="704" height="404" frameX="0" frameY="0" frameWidth="704" frameHeight="404" />
+</TextureAtlas>

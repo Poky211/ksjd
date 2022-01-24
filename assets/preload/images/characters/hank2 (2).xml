@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Pico.png"><SubTexture name="Pico Note Right0000" x="0" y="0" width="440" height="282" frameX="0" frameY="0" frameWidth="440" frameHeight="282" />
+<SubTexture name="Pico Note Right0001" x="440" y="0" width="440" height="282" frameX="0" frameY="0" frameWidth="440" frameHeight="282" />
+<SubTexture name="Pico NOTE LEFT0000" x="880" y="0" width="494" height="292" frameX="0" frameY="0" frameWidth="494" frameHeight="292" />
+<SubTexture name="Pico NOTE LEFT0001" x="0" y="292" width="494" height="292" frameX="0" frameY="0" frameWidth="494" frameHeight="292" />
+<SubTexture name="Pico Down Note0000" x="494" y="292" width="416" height="289" frameX="0" frameY="0" frameWidth="416" frameHeight="289" />
+<SubTexture name="Pico Down Note0001" x="910" y="292" width="416" height="289" frameX="0" frameY="0" frameWidth="416" frameHeight="289" />
+<SubTexture name="pico Up note0000" x="0" y="584" width="413" height="303" frameX="0" frameY="0" frameWidth="413" frameHeight="303" />
+<SubTexture name="pico Up note0001" x="413" y="584" width="413" height="303" frameX="0" frameY="0" frameWidth="413" frameHeight="303" />
+<SubTexture name="Pico Idle Dance0000" x="826" y="584" width="419" height="311" frameX="0" frameY="0" frameWidth="419" frameHeight="311" />
+<SubTexture name="Pico Idle Dance0001" x="0" y="895" width="420" height="284" frameX="0" frameY="0" frameWidth="420" frameHeight="284" />
+<SubTexture name="Pico Idle Dance0002" x="420" y="895" width="415" height="292" frameX="0" frameY="0" frameWidth="415" frameHeight="292" />
+<SubTexture name="Pico Idle Dance0003" x="835" y="895" width="411" height="301" frameX="0" frameY="0" frameWidth="411" frameHeight="301" />
+<SubTexture name="Pico Idle Dance0004" x="0" y="1196" width="413" height="303" frameX="0" frameY="0" frameWidth="413" frameHeight="303" />
+<SubTexture name="Pico Idle Dance0005" x="413" y="1196" width="417" height="307" frameX="0" frameY="0" frameWidth="417" frameHeight="307" />
+<SubTexture name="Pico Idle Dance0006" x="830" y="1196" width="414" height="307" frameX="0" frameY="0" frameWidth="414" frameHeight="307" />
+</TextureAtlas>
