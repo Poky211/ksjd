@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				20
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 20,
+			"name": "hank idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				8,
+				34
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "hank left0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-15,
+				55
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "hank right0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-60,
+				41
+			],
+			"loop": false,
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Pico NOTE LEFT miss",
+			"indices": []
+		},
+		{
+			"offsets": [
+				62,
+				64
+			],
+			"loop": false,
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Pico Note Right Miss",
+			"indices": []
+		},
+		{
+			"offsets": [
+				221,
+				59
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "hank up0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				20,
+				0
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "hank down0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				210,
+				-28
+			],
+			"loop": false,
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "Pico Down Note MISS",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-19,
+				67
+			],
+			"loop": false,
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "pico Up note miss",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/hank",
+	"position": [
+		-180,
+		350
+	],
+	"healthicon": "hank",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1.3
+}
